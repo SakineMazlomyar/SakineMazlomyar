@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakine Mazlomyar</h1>
 <h3 align="center">A passionate Software Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakinemazlomyar&label=Profile%20views&color=0e75b6&style=flat" alt="sakinemazlomyar" /> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakineMazlomyar](https://github.com/SakineMazlomyar)
